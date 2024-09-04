@@ -1,3 +1,8 @@
 #"4th program"
-numbers = '123.456'
-print (numbers[4])
+number = (float('123.456'))
+print (int (number * 10) % 10)
+
+
+
+
+
